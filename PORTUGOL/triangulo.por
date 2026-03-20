@@ -1,7 +1,7 @@
 /*
 * Instituição: EtecVAV - Vasco Antonio Vechiarutti
 *
-* Arquivo: idade.por
+* Arquivo: triangulo.por
 * Data: 10/03/2026
 * Autor: Davi de Sousa e João monteiro
 * Descrição: Ler a base e altura de um triângulo. Calcular e exibir a área do triângulo sabendo que área = base * altura / 2.
