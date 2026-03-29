@@ -1,14 +1,48 @@
-# 1 — Pergunta conceitual
+# 1BIM-M1 — Introdução à Web
 
-## O que é HTTP?
-O HTTP é como uma “linguagem” que o navegador usa para conversar com os sites na internet. Quando você entra em um site, o navegador envia um pedido para o servidor, e o servidor responde mostrando a página para você, com textos, imagens e outros conteúdos.
+---
 
-## Qual é a diferença entre HTTP e HTTPS?
-O HTTP envia os dados de forma “aberta”, ou seja, alguém pode interceptar e ver o que está sendo enviado, como senhas ou dados pessoais.
+## 1 — Pergunta conceitual
 
-Já o HTTPS é seguro, porque usa criptografia. Isso significa que as informações são embaralhadas, então mesmo que alguém intercepte os dados, não consegue entender.
+### O que é HTTP?
+O HTTP é um protocolo usado para comunicação na internet. Ele funciona como uma linguage que permite que o navegador converse com servidores e solicite páginas, imagens e outros conteúdos.
 
-## Por que o HTTPS é importante para a segurança na Web?
-O HTTPS é muito importante porque protege suas informações, garante que você está acessando o site verdadeiro (e não um falso) e evita que os dados sejam alterados durante o envio.
+### Diferença entre HTTP e HTTPS
+- **HTTP**: envia os dados sem proteção, podendo ser interceptados.
+- **HTTPS**: utiliza criptografia (SSL/TLS), protegendo os dados durante a transmissão.
 
-Hoje em dia, quase todos os sites usam HTTPS, principalmente quando você precisa fazer login ou inserir dados importantes.
+### Por que o HTTPS é importante?
+O HTTPS é importante porque:
+- Protege dados sensíveis (senhas, cartões, etc.)
+- Garante que o site é autêntico
+- Evita que informações sejam interceptadas ou alteradas
+
+---
+
+## 2 — Pergunta de aplicação
+
+### Papel do navegador
+O navegador (como Chrome, Firefox ou Edge) é o programa que o usuário utiliza para acessar sites. Ele envia requisições ao servidor e exibe o conteúdo recebido.
+
+### Papel do servidor web
+O servidor web é responsável por armazenar os arquivos do site e responder às requisições feitas pelos navegadores.
+
+### Como ocorre a comunicação
+
+1. O usuário digita o endereço do site (URL)
+2. O navegador envia uma requisição HTTP/HTTPS
+3. O servidor recebe e processa o pedido
+4. O servidor envia a resposta (HTML, CSS, imagens)
+5. O navegador renderiza a página
+
+### Exemplo
+Ao acessar um site institucional:
+- O navegador solicita a página inicial
+- O servidor responde com o conteúdo do site
+- O navegador exibe a página para o usuário
+
+---
+
+## 3 — Pergunta de investigação
+
+### URL completa
