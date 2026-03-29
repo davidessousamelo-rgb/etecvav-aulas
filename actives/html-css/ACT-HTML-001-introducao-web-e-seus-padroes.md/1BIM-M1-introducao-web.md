@@ -65,4 +65,16 @@ Exemplo de elementos encontrados no código:
 Essa página ultiliza tanto comandos do hmtl puro quando do css para deixar ela mais organizada e bem mais bonita, além de muitos outros
 comandos em css para facilitar o cadrastro, etc
 
+ ## 4 - Pergunta e Reflexão
+
+ ### Por que padrões como HTTP, HTML e DNS são importantes.
+
+ 🌐 Importância dos padrões
+
+Padrões como HTTP, HTML e DNS são essenciais para que a internet funcione corretamente. O HTTP/HTTPS permite a comunicação entre navegador e servidor, o HTML organiza o conteúdo das páginas e o DNS traduz nomes de sites em endereços que os computadores entendem.
+
+✔️ Funcionamento da internet
+
+Sem esses padrões, cada sistema teria uma forma diferente de funcionar, dificultando o acesso aos sites. Eles garantem que a internet seja organizada, compatível e segura para todos os usuários.
+ 
 
