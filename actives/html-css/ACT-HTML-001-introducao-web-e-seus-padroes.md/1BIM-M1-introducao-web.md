@@ -46,8 +46,9 @@ Ao acessar um site institucional:
 ## 3 — Pergunta de investigação
 
 ### Qual é a URL completa da página acessada?
+```
 https://developer.mozilla.org/pt-BR/
-
+```
 ### Qual protocolo está sendo utilizado (HTTP ou HTTPS)?
 HTTPS
 
@@ -62,7 +63,7 @@ Exemplo de elementos encontrados no código:
   <mdn-placement-top></mdn-placement-top>
 </div>
 ```
-Essa página ultiliza tanto comandos do hmtl puro quando do css para deixar ela mais organizada e bem mais bonita, além de muitos outros
+Essa página ultiliza tanto comandos do hmtl puro quanto do css para deixar ela mais organizada e bem mais bonita, além de muitos outros
 comandos em css para facilitar o cadrastro, etc
 
  ## 4 - Pergunta e Reflexão
