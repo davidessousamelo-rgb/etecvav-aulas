@@ -61,6 +61,8 @@ Exemplo de elementos encontrados no código:
 <div class="page-layout__banner" data-scheme="dark">
   <mdn-placement-top></mdn-placement-top>
 </div>
-
+```
+Essa página ultiliza tanto comandos do hmtl puro quando do css para deixar ela mais organizada e bem mais bonita, além de muitos outros
+comandos em css para facilitar o cadrastro, etc
 
 
