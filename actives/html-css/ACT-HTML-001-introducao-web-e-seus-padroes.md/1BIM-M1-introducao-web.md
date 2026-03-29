@@ -37,12 +37,14 @@ O servidor web é responsável por armazenar os arquivos do site e responder às
 
 ### Exemplo
 Ao acessar um site institucional:
-- O navegador solicita a página inicial
-- O servidor responde com o conteúdo do site
-- O navegador exibe a página para o usuário
+ O navegador solicita a página inicial
+ O servidor responde com o conteúdo do site
+ O navegador exibe a página para o usuário
 
 ---
 
 ## 3 — Pergunta de investigação
 
-### URL completa
+### Qual é a URL completa da página acessada?
+https://developer.mozilla.org/pt-BR/
+
