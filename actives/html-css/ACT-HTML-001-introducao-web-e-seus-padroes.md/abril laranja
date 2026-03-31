@@ -1,1 +1,62 @@
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abril Laranja</title>
+</head>
+
+<body bgcolor="orange">
+    <h1>
+        <center>ABRIL LARANJA</center>
+    </h1>
+    <hr size="2" color="black">
+    <h2>
+        <center>
+            <font size="6" color="brown"> Concientização e combate aos mal tratos contra os animais</font>
+        </center>
+    </h2>
+</body>
+<center>
+    <table border="3" Bordercolor="black" width=" 60%" height="10" bgcolor="#EB7E2E" <tr>
+        <th>
+            <font size="5"> O que é o Abril Laranja?</font>
+        </th>
+        <th>
+            <font size="5"> Por que Abril?</font>
+        </th>
+        <th>
+            <font size="5"> Como Fazer a Diferença</font>
+        </th>
+        </tr>
+
+        <td>
+            <font size="4">
+                <justify> O Abril Laranja é o mês dedicado mundialmente à Prevenção da Crueldade Contra os Animais. A
+                    campanha
+                    surgiu em
+                    2006, criada pela ASPCA (Sociedade Americana para a Prevenção da Crueldade contra Animais), e hoje é
+                    um
+                    movimento global que une protetores, ONGs e cidadãos.</justify>
+            </font>
+        </td>
+
+        <td>
+            <font size="4">
+                <justify> A cor laranja foi escolhida por simbolizar alerta e energia, servindo como um chamado para que
+                    a sociedade
+                    não feche os olhos para o sofrimento animal.</justify>
+            </font>
+        <td>
+            <size="4">
+            Denúncia: Use os canais oficiais (como 190 ou 181) ao presenciar maus-tratos. <br>
+
+            <br>Educação:<br> Lembre que animais sentem dor e medo; o abandono também é crime.
+
+            <h3>Guarda Responsável:</h3> Ter um pet exige vacinas, comida e, acima de tudo, respeito.
+        </font></td>
+    </table>
+
+</html>
