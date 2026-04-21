@@ -1,15 +1,15 @@
 # 1B-M1-Questionario
 
 ## Integrantes do grupo
-- João Silva
-- Maria Souza
-- Pedro Santos
-- Ana Oliveira
+- João Monteiro
+- Davi de Sousa
+- Geovane
+- Eduardo Koehler
 
 ---
 
 ## Exercício 1 — Pergunta conceitual  
-**Responsável: João Silva**
+**João Monteiro**
 
 Um algoritmo é um passo a passo usado para resolver um problema ou realizar uma tarefa. Ele precisa seguir uma ordem lógica para funcionar corretamente.
 
@@ -26,7 +26,7 @@ Um exemplo simples do dia a dia é fazer um café:
 ---
 
 ## Exercício 2 — Pergunta de aplicação  
-**Responsável: Maria Souza**
+**Geovane**
 
 ### Algoritmo em linguagem natural
 
@@ -74,29 +74,37 @@ fimalgoritmo
 ---
 
 ## Exercício 3 — Pergunta de investigação  
-**Responsável: Pedro Santos**
+**Davi de Sousa**
 
 O Portugol Studio é um programa usado para aprender programação de forma mais fácil. Ele utiliza uma linguagem parecida com o português, o que ajuda bastante quem está começando.
 
 ### Código criado
 
 ```portugol
-algoritmo "DobroNumero"
+algoritmo "calcular idade em meses"
 
-var
-   num: inteiro
+programa
+{
+    funcao inicio()
+    {
+        cadeia nome
+        inteiro idade
 
-inicio
+        escreva("Digite seu nome: ")
+        leia(nome)
 
-   escreva("Digite um número: ")
-   leia(num)
+        escreva("Digite sua idade: ")
+        leia(idade)
 
-   escreva("O dobro é: ", num * 2)
-
-fimalgoritmo
+        escreva("\nNome: ", nome, "\n")
+        escreva("Anos: ", idade, "\n")
+        escreva("Meses: ", idade * 12, "\n")
+        escreva("Dias: ", idade * 365, "\n")
+    }
+}
 ```
 
-*Inserir aqui a captura de tela da execução*
+
 
 ### Experiência
 
@@ -105,7 +113,7 @@ Eu achei o Portugol Studio fácil de usar. Ele é bem simples e ajuda a entender
 ---
 
 ## Exercício 4 — Pergunta de reflexão  
-**Responsável: Ana Oliveira**
+**Eduardo Koehler**
 
 As IDEs, bibliotecas e frameworks são importantes porque ajudam os programadores a trabalhar mais rápido e com menos erros.
 
