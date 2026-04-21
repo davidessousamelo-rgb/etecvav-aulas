@@ -32,9 +32,9 @@ Um exemplo simples do dia a dia é fazer um café:
 
 O programa deve:
 
-- Pedir três números ao usuário
-- Comparar os três valores
-- Descobrir qual é o maior
+- Pedir o preço do litro do combustível
+- Pedir o valor que deseja abastecer
+- mostrae a quantidade de litros que foi abastecido
 - Mostrar o resultado na tela
 
 ### Algoritmo em Portugol
