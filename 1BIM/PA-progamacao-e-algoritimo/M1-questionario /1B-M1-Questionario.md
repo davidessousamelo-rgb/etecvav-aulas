@@ -40,34 +40,25 @@ O programa deve:
 ### Algoritmo em Portugol
 
 ```portugol
-algoritmo "MaiorNumero"
+programa
+{
+    funcao inicio()
+    {
+        real preco_litro, valor, litros
 
+        escreva("Digite o preço do litro do combustível: ")
+        leia(preco_litro)
 
-   n1, n2, n3, maior: inteiro
+        escreva("Digite o valor que deseja abastecer: ")
+        leia(valor)
 
+        litros = valor / preco_litro
 
-
-   escreva("Digite o primeiro número: ")
-   leia(n1)
-
-   escreva("Digite o segundo número: ")
-   leia(n2)
-
-   escreva("Digite o terceiro número: ")
-   leia(n3)
-
-   maior <- n1
-
-   se (n2 > maior) entao
-      maior <- n2
-   fimse
-
-   se (n3 > maior) entao
-      maior <- n3
-   fimse
-
-   escreva("O maior número é: ", maior)
-
+        escreva("\nPreço do litro: R$ ", preco_litro, "\n")
+        escreva("Valor abastecido: R$ ", valor, "\n")
+        escreva("Quantidade de litros: ", litros, " L\n")
+    }
+}
 
 ```
 
