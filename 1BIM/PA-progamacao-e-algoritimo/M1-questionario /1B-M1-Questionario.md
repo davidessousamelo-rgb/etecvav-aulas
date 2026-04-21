@@ -42,10 +42,10 @@ O programa deve:
 ```portugol
 algoritmo "MaiorNumero"
 
-var
+
    n1, n2, n3, maior: inteiro
 
-inicio
+
 
    escreva("Digite o primeiro número: ")
    leia(n1)
@@ -68,7 +68,7 @@ inicio
 
    escreva("O maior número é: ", maior)
 
-fimalgoritmo
+
 ```
 
 ---
